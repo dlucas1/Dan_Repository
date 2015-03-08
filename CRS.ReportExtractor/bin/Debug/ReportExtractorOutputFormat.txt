@@ -1,0 +1,49 @@
+sourceId,sourceCode,hospitalSystem
+210001,MMC,Meritus System
+210002,UMMS_UMMC,UMM System
+210003,PGHC,Dimensions System
+210004,HCH,Holy Cross System
+210005,FMH,Frederick System
+210006,HARM,UMM System
+210008,MHS,Mercy System
+210009,JHH,Hopkins System
+210010,UMMS_DRCHSTR,UMM System
+210011,SAH,St Agnes System
+210012,LBH_SHB,Lifebridge System
+210013,BSB,Bon Secours System
+210015,MEDSTAR_FSH,MedStar System
+210016,ADVWAH,Adventist System
+210017,GCMH,Garrett System
+210018,MGH,MedStar System
+210019,PRMC,Peninsula System
+210022,SUBURBAN,Hopkins System
+210023,AAMC,Anne Arundel System
+210024,MEDSTAR_UMH,MedStar System
+210027,WMHS,Western Maryland System
+210028,STMH,MedStar System
+210029,JHH_BVIEW,Hopkins System
+210030,UMMS_CHSTR,UMM System
+210032,UHCC,Union of Cecil System
+210033,CHC,Carroll System
+210034,MEDSTAR_HHC,MedStar System
+210035,CMC,UMM System
+210037,UMMS_EASTON,UMM System
+210038,UMMS_MGH,UMM System
+210039,CVMH,Calvert System
+210040,LBH_NWH,Lifebridge System
+210043,UMMS_BWMC,UMM System
+210044,GBMC,GBMC System
+210045,MCMH,McCready System
+210048,HCGH,Hopkins System
+210049,UCMC,UMM System
+210051,DCH,Doctors System
+210055,LRH,Dimensions System
+210056,MEDSTAR_GSH,MedStar System
+210057,ADVSGAH,Adventist System
+210058,UMMS_KERNAN,UMM System
+210060,FWMC,Ft Washington System
+210061,AGH,Atlantic General System
+210062,SMH,MedStar System
+210063,SJMC,UMM System
+210065,HCH_GT,Holy Cross System
+210088,UMMS_EASTON,UMM System
